@@ -5,6 +5,7 @@ private String Marka;
 private String Model;
 private double PominatiKm;
 private String Boja;
+
 public Avtomobil(String Marka, String Model, double PominatiKm, String Boja) {
 	this.Marka=Marka;
 	this.Model=Model;
